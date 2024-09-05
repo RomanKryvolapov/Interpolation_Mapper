@@ -1,0 +1,1908 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Z_DUMMY_TARGET"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"CMakeListsPrivate.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 26,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 37,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu++11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARDUINO=10808"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "ARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "ARDUINO_AVR_NANO"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "F_CPU=16000000L"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "PLATFORMIO=60105"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "__AVR_ATmega328P__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 10,
+					"path" : "C:/ExampleProjects/Interpolation_Mapper/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/ExampleProjects/Interpolation_Mapper/src"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/ExampleProjects/Interpolation_Mapper/.pio/libdeps/nanoatmega328new/Adafruit_SH1106"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/ExampleProjects/Interpolation_Mapper/.pio/libdeps/nanoatmega328new/Adafruit GFX Library"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduino-avr/cores/arduino"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "C:/ExampleProjects/Interpolation_Mapper/.pio/libdeps/nanoatmega328new/Adafruit BusIO"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduino-avr/libraries/SPI/src"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduino-avr/libraries/Wire/src"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduino-avr/libraries/HID/src"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-atmelavr/avr/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				66,
+				68,
+				72,
+				74,
+				89,
+				92,
+				98,
+				102,
+				186,
+				199,
+				201,
+				248,
+				250,
+				252
+			]
+		}
+	],
+	"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Z_DUMMY_TARGET",
+	"nameOnDisk" : "Z_DUMMY_TARGET",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				66,
+				68,
+				72,
+				74,
+				89,
+				92,
+				98,
+				102,
+				186,
+				199,
+				201,
+				248,
+				250,
+				252
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				114,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219,
+				220,
+				221,
+				222,
+				223,
+				224,
+				226,
+				229,
+				230,
+				231,
+				232,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				239,
+				240,
+				241,
+				242,
+				243,
+				244,
+				245,
+				246,
+				247
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				28,
+				225,
+				227,
+				228
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				67,
+				69,
+				70,
+				71,
+				73,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				90,
+				91,
+				93,
+				94,
+				95,
+				96,
+				97,
+				99,
+				100,
+				101,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				197,
+				198,
+				200,
+				249,
+				251,
+				253,
+				254,
+				255
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/.piopm",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/applypatch-msg.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/commit-msg.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/fsmonitor-watchman.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/post-update.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/pre-applypatch.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/pre-commit.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/pre-merge-commit.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/pre-push.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/pre-rebase.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/pre-receive.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/prepare-commit-msg.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/push-to-checkout.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/hooks/update.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/objects/pack/pack-e543db53aa7f69ce34c1aa768173c6eecc65d76c.idx",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.git/objects/pack/pack-e543db53aa7f69ce34c1aa768173c6eecc65d76c.pack",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.github/workflows/build.yml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.github/workflows/docs.yml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/.gitignore",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/CMakeLists.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/PORTING.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/README.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/ci/ci-flags.py",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/code_of_conduct.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/component.mk",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/docs/DoxygenLayout.xml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/docs/include/fastled-docs.css",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/docs/include/fastled_logo.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/docs/include/footer.html",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/docs/include/header.html",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/AnalogOutput/AnalogOutput.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Blink/Blink.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/ColorPalette/ColorPalette.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/ColorTemperature/ColorTemperature.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Cylon/Cylon.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/DemoReel100/DemoReel100.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Fire2012/Fire2012.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Fire2012WithPalette/Fire2012WithPalette.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/FirstLight/FirstLight.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Multiple/ArrayOfLedArrays/ArrayOfLedArrays.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Multiple/MirroringSample/MirroringSample.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Multiple/MultiArrays/MultiArrays.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Multiple/MultipleStripsInOneArray/MultipleStripsInOneArray.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Multiple/OctoWS2811Demo/OctoWS2811Demo.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Multiple/ParallelOutputDemo/ParallelOutputDemo.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Noise/Noise.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/NoisePlayground/NoisePlayground.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/NoisePlusPalette/NoisePlusPalette.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Pacifica/Pacifica.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Pintest/Pintest.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Ports/PJRCSpectrumAnalyzer/PJRCSpectrumAnalyzer.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/Pride2015/Pride2015.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/RGBCalibrate/RGBCalibrate.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/RGBSetDemo/RGBSetDemo.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/SmartMatrix/SmartMatrix.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/TwinkleFox/TwinkleFox.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/examples/XYMatrix/XYMatrix.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/extras/AppleII.s65",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/extras/FastLED6502.s65",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/extras/RainbowDemo.bin.zip",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/extras/RainbowDemo.s65",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/keywords.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/library.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/library.properties",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/release_notes.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/FastLED.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/FastLED.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/bitswap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/bitswap.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/chipsets.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/color.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/colorpalettes.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/colorpalettes.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/colorutils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/colorutils.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/controller.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/cpp_compat.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/dmx.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastled_config.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastled_delay.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastled_progmem.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastpin.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastspi.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastspi_bitbang.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastspi_dma.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastspi_nop.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastspi_ref.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/fastspi_types.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/hsv2rgb.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/hsv2rgb.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/led_sysdefs.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/lib8tion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/lib8tion.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/lib8tion/math8.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/lib8tion/random8.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/lib8tion/scale8.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/lib8tion/trig8.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/noise.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/noise.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/pixelset.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/pixeltypes.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/apollo3/clockless_apollo3.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/apollo3/fastled_apollo3.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/apollo3/fastpin_apollo3.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/apollo3/fastspi_apollo3.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/apollo3/led_sysdefs_apollo3.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/common/m0clockless.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d21/clockless_arm_d21.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d21/fastled_arm_d21.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d21/fastpin_arm_d21.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d21/led_sysdefs_arm_d21.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d51/README.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d51/clockless_arm_d51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d51/fastled_arm_d51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d51/fastpin_arm_d51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/d51/led_sysdefs_arm_d51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/clockless_arm_k20.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/clockless_block_arm_k20.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/fastled_arm_k20.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/fastpin_arm_k20.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/fastspi_arm_k20.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/led_sysdefs_arm_k20.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/octows2811_controller.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/smartmatrix_t3.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k20/ws2812serial_controller.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k66/clockless_arm_k66.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k66/clockless_block_arm_k66.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k66/fastled_arm_k66.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k66/fastpin_arm_k66.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k66/fastspi_arm_k66.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/k66/led_sysdefs_arm_k66.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/kl26/clockless_arm_kl26.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/kl26/fastled_arm_kl26.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/kl26/fastpin_arm_kl26.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/kl26/fastspi_arm_kl26.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/kl26/led_sysdefs_arm_kl26.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/mxrt1062/block_clockless_arm_mxrt1062.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/mxrt1062/clockless_arm_mxrt1062.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/mxrt1062/fastled_arm_mxrt1062.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/mxrt1062/fastpin_arm_mxrt1062.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/mxrt1062/fastspi_arm_mxrt1062.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/mxrt1062/led_sysdefs_arm_mxrt1062.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/mxrt1062/octows2811_controller.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf51/clockless_arm_nrf51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf51/fastled_arm_nrf51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf51/fastpin_arm_nrf51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf51/fastspi_arm_nrf51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf51/led_sysdefs_arm_nrf51.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf52/arbiter_nrf52.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf52/clockless_arm_nrf52.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf52/fastled_arm_nrf52.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf52/fastpin_arm_nrf52.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf52/fastpin_arm_nrf52_variants.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf52/fastspi_arm_nrf52.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/nrf52/led_sysdefs_arm_nrf52.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/renesas/clockless_arm_renesas.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/renesas/fastled_arm_renesas.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/renesas/fastpin_arm_renesas.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/renesas/led_sysdef_arm_renesas.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/rp2040/clockless_arm_rp2040.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/rp2040/fastled_arm_rp2040.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/rp2040/fastpin_arm_rp2040.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/rp2040/led_sysdefs_arm_rp2040.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/rp2040/pio_asm.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/rp2040/pio_gen.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/sam/clockless_arm_sam.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/sam/clockless_block_arm_sam.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/sam/fastled_arm_sam.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/sam/fastpin_arm_sam.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/sam/fastspi_arm_sam.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/sam/led_sysdefs_arm_sam.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/stm32/clockless_arm_stm32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/stm32/cm3_regs.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/stm32/fastled_arm_stm32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/stm32/fastpin_arm_stm32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/arm/stm32/led_sysdefs_arm_stm32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/avr/clockless_trinket.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/avr/fastled_avr.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/avr/fastpin_avr.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/avr/fastspi_avr.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/avr/led_sysdefs_avr.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/clockless_block_esp32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/clockless_i2s_esp32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/clockless_rmt_esp32.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/clockless_rmt_esp32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/fastled_esp32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/fastpin_esp32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/fastspi_esp32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/led_sysdefs_esp32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/8266/clockless_block_esp8266.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/8266/clockless_esp8266.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/8266/fastled_esp8266.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/8266/fastpin_esp8266.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/8266/fastspi_esp8266.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/8266/led_sysdefs_esp8266.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/platforms/fastspi_ardunio_core.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/power_mgt.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/power_mgt.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/src/wiring.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/FastLED/workspace.code-workspace",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/integrity.dat",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/.piopm",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/applypatch-msg.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/commit-msg.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/fsmonitor-watchman.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/post-update.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/pre-applypatch.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/pre-commit.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/pre-merge-commit.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/pre-push.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/pre-rebase.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/pre-receive.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/prepare-commit-msg.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/push-to-checkout.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/hooks/update.sample",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/objects/pack/pack-6b0a1bcbfa97b19c5005cca3da2934e39ea83f25.idx",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/objects/pack/pack-6b0a1bcbfa97b19c5005cca3da2934e39ea83f25.pack",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.git/refs/tags/3.6",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.gitattributes",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/.github/workflows/tg-send.yml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/README.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/README_EN.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/docs/config.jpg",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/docs/libs comparsion.xlsx",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/docs/zig_paral.jpg",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/docs/zig_paral2.jpg",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/FIRE_with_FastLED/FIRE_with_FastLED.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/FastLED_and_microLED/FastLED_and_microLED.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/basicEffects/basicEffects.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/bitmap/bitmap.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/gradient/gradient.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/many_strips/many_strips.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/matrix_guide/matrix_guide.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/microLED_guide/microLED_guide.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/microled_apa102/microled_apa102.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/microled_apa102spi/microled_apa102spi.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/microled_spi/microled_spi.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/noise/noise.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/stream_mode/stream_mode.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/tinyled_APA102/tinyled_APA102.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/tinyled_APA102_SPI/tinyled_APA102_SPI.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/tinyled_buffer/tinyled_buffer.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/examples/tinyled_guide/tinyled_guide.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/keywords.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/library.properties",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/src/FastLEDsupport.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/src/FastLEDsupport.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/src/color_utility.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/src/color_utility.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/src/microLED.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/src/microLED.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/src/tinyLED.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/nanoatmega328new/microLED/src/types.h",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}

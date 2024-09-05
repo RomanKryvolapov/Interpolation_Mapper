@@ -1,0 +1,5 @@
+C:/ExampleProjects/Interpolation_Mapper/cmake-build-nanoatmega328new/CMakeFiles/Production.dir
+C:/ExampleProjects/Interpolation_Mapper/cmake-build-nanoatmega328new/CMakeFiles/Debug.dir
+C:/ExampleProjects/Interpolation_Mapper/cmake-build-nanoatmega328new/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/ExampleProjects/Interpolation_Mapper/cmake-build-nanoatmega328new/CMakeFiles/edit_cache.dir
+C:/ExampleProjects/Interpolation_Mapper/cmake-build-nanoatmega328new/CMakeFiles/rebuild_cache.dir

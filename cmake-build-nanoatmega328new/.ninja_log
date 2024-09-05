@@ -1,0 +1,16 @@
+# ninja log v5
+0	1091	0	CMakeFiles/Production	d8b9871d439b5387
+6	160	7211199407515068	CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.obj	c69a50a39621c6d2
+26	253	7211199408650324	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/lib8tion.cpp.obj	ee80fb9152a637d8
+51	161	7211199407645073	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/platforms.cpp.obj	f625afa4666caa20
+37	165	7211199407765073	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/platforms/esp/32/clockless_rmt_esp32.cpp.obj	e89ac33ff03285c9
+1	268	7211199408810312	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/FastLED.cpp.obj	b5bc0f17b4bb881a
+75	205	7211199408185134	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/microLED/src/microLED.cpp.obj	53b705904a843bb8
+11	240	7211199408530314	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/colorpalettes.cpp.obj	9fb70b20b5d8b09e
+91	258	7211199408650324	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/microLED/src/color_utility.cpp.obj	b04102955ebb828c
+20	276	7211199408880308	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/bitswap.cpp.obj	bc943cffc38751d
+60	289	7211199409040755	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/wiring.cpp.obj	b2e38dc143219f32
+30	294	7211199409080358	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/hsv2rgb.cpp.obj	50adca7d2e2a442b
+68	305	7211199409190359	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/power_mgt.cpp.obj	cd6315fe917cfcb5
+15	325	7211199409405480	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/colorutils.cpp.obj	29603eb3e4b66fa
+44	340	7211199409545446	CMakeFiles/Z_DUMMY_TARGET.dir/.pio/libdeps/nanoatmega328new/FastLED/src/noise.cpp.obj	3574c4a77be8cbd1
